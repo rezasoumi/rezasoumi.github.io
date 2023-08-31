@@ -1,5 +1,5 @@
 title: Reza Soumi
-logo: /assets/img/RezaSoumi.png
-#description: text below image
-show_downloads: true
+logo: /assets/s.png
+description: Rezoux
+show_downloads: false
 theme: jekyll-theme-minimal
