@@ -3,7 +3,7 @@
 I'm a final-year undergraduate student pursuing a degree in Computer Engineering at Sharif University of Technology, one of Iran's premier institutions, ranked as the best university in the country according to the QS ranking of 2023.
 
 Throughout my academic journey and especially towards the end, I've developed a keen interest in machine learning and deep learning techniques. My fascination with these cutting-edge technologies has driven me to watch various projects and try to explore some of them by myself to apply my knowledge in practical ways.
-You can explore these projects in detail on my GitHub page (https://github.com/rezasoumi/).
+You can explore these projects in detail on my GitHub page.
 
 As a technology enthusiast, I firmly believe in the importance of staying updated with the latest advancements in the field. I am an avid reader of research papers and actively participate in online courses and workshops to expand my knowledge.
 
@@ -11,7 +11,8 @@ I am excited to embark on a career journey that allows me to apply my skills in 
 
 I'm open to connecting with like-minded professionals, researchers, and industry experts. Feel free to reach out to me on LinkedIn or via email.
 
-#### Research Interest: Deep Learning, Machine Learning, Neuroscience, Embedded AI, Bioinformatics
+### Research Interest
+Deep Learning, Machine Learning, Neuroscience, Embedded AI, Bioinformatics
 
 ## Education			        		
 - B.S., Computer Engineering | Sharif University of Technology (2019-2023)
@@ -27,17 +28,16 @@ Throughout my time at Mofid, I leveraged my expertise in Software Engineering, D
 
 - Skills: Applied Machine Learning · Data Mining · Statistics
 
-## Projects
+## Last Projects
 ### Modern Information Retrieval
 [Repository](https://github.com/rezasoumi/ModernInformationRetrieval)
 
 The project focuses on various techniques for document classification, search and retrieval, clustering, and other advanced retrieval methods using python programming language. Each phase is described below along with the implemented techniques and evaluation metrics. This project is made through the course of Modern Information Retrieval of Dr. Mahdieh Soleymani Baghshah.
 
-
 ### Machine Learning Notebooks
 [Repository](https://github.com/rezasoumi/MachineLearningNotebooks)
 
-This repository contains the source codes and implementations (using python) of various machine learning algorithms completed during the Machine Learning course at Sharif University of Technology (Prof: Seyed Abolfazl Motahari). Each section represents a different topic or technique covered in the course, and the projects demonstrate practical applications of the algorithms. Linear Regression, Linear and Quadratic Discriminant Analysis, Logistic Regression, Naive Bayes, Lasso & Ridge Regression, Decision Tree and Ensemble Techniques, Polynomial Regression & Spline, SVM, PCS, K-Means, Neural Net, Semantic Analysis Project are all available in the GitHub page.
+This repository contains the source codes and implementations (using python) of various machine learning algorithms completed during the Machine Learning course at Sharif University of Technology (Prof: Seyed Abolfazl Motahari). Each section represents a different topic or technique covered in the course, and the projects demonstrate practical applications of the algorithms. Linear Regression, Linear and Quadratic Discriminant Analysis, Logistic Regression, Naive Bayes, Lasso & Ridge Regression, Decision Tree and Ensemble Techniques, Polynomial Regression & Spline, SVM, PCS, K-Means, Neural Net, Semantic Analysis Project are all available in the GitHub repo.
 
 
 ### Signals & Systems Project
@@ -45,6 +45,13 @@ This repository contains the source codes and implementations (using python) of 
 
 The Signals and Systems course project at Sharif involves two main aspects: JPEG compression and the development of a system to counteract the impact of a noisy channel during image transmission. more details are available in the GitHub repo.
 
+### Secure Messanger
+[Repository](https://github.com/rezasoumi/DNS_Project)
+
+This project is a secure messenger application designed to provide end-to-end encryption for communication between users in a command prompt environment. Users can send messages securely to each other, ensuring the confidentiality and integrity of their conversations. The application utilizes RSA and Diffie-Hellman key exchange to establish secure communication channels. more details are available in the GitHub repo.
+
+### Another Projects
+I have a collection of projects available in my GitHub repository that I completed during my bachelor's journey. These projects include a Cooking Website Project, a Decaf Compiler Project, a Python Interpreter, and a Simple Telegram bot.
 
 ## Volunteering
 ### Volunteer Teaching Assistant
