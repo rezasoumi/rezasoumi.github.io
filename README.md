@@ -17,6 +17,8 @@ I'm open to connecting with like-minded professionals, researchers, and industry
 - Neuroscience
 - Neural ODEs
 - Embedded AI
+- Intelligent Systems
+- Information Search and Retrieval
 - Bioinformatics
 
 ## Education			        		
