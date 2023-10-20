@@ -14,12 +14,11 @@ I'm open to connecting with like-minded professionals, researchers, and industry
 ### Research Interest
 - Deep Learning
 - Machine Learning
-- Neuroscience
-- Neural ODEs
 - Embedded AI
 - Intelligent Systems
+- Neural ODEs
 - Information Search and Retrieval
-- Bioinformatics
+- Neuroscience
 
 ## Education			        		
 - B.S., Computer Engineering | Sharif University of Technology (_2019-2023_)
@@ -59,22 +58,24 @@ The Signals and Systems course project at Sharif involves two main aspects: JPEG
 This project is a secure messenger application designed to provide end-to-end encryption for communication between users in a command prompt environment. Users can send messages securely to each other, ensuring the confidentiality and integrity of their conversations. The application utilizes RSA and Diffie-Hellman key exchange to establish secure communication channels. more details are available in the GitHub repo.
 
 ### Another Projects
-I have a collection of projects available in my GitHub repository that I completed during my bachelor's journey. These projects include a Cooking Website Project, a Decaf Compiler Project, a Python Interpreter, and a Simple Telegram bot.
+I have a collection of projects available in my GitHub repository that I completed during my bachelor's journey. These projects include an Internet of Medical Project(IOMT), a Cooking Website Project, a Decaf Compiler Project, a Python Interpreter, and a Simple Telegram bot.
 
 ## Volunteering
 ### Volunteer Teaching Assistant
-- Basic Programming (Running Workshop)
-- Advanced Programming (Designing Project)
+- Artificial Intelligence *2 (Head of Lecture Videos Section, Designing Homework & Exam)
+- Embedded Systems * 2 (Designing Project)
+- Numerical Computation *2 (Designing Homework, Running Workshop)
 - Engineering Probability and Statistics (Designing Exam)
+- Linear Algebra (Designing Homework)
 - Database Design (Designing Homework)
 - Compiler Design (Designing Homework & Exam)
-- Numerical Computation (Running Workshop)
-- Embedded Systems * 2 (Designing Project)
-- Artificial Intelligence (Head of Lecture Videos Section)
+- Programming Language (Designing Homework)
+- Advanced Programming (Designing Project)
+- Basic Programming (Running Workshop)
 
 ### Head of Talkche
 Talkcheh is a seminar series under the license of the Students Scientific Chapter (SSC) of the CE department of the Sharif University of Technology, in which the presenter and the audience are CE students.
-We provided an environment for holding scientific and non-scientific presentations by the department's students. Our aim was to foster a community of sharing and learning where each person could bring something new to the table. We held 8 talks during this one-year period.
+We provided an environment for holding scientific and non-scientific presentations by the department's students. Our aim was to foster a community of sharing and learning where each person could bring something new to the table. We held 9 talks during this one-year period.
 - [Telegram Channel](https://t.me/ssc_talkche)
 
 ### Volleyball Coach
@@ -85,6 +86,8 @@ Although the team qualified for the elimination stage, we withdrew due to the co
 - Leadership
 - Machine Learning
 - Deep Learning
+- Embedded System Design
+- Embedded AI
 - Natural Language Processing
 - Neural ODEs
 - Signal Processing
@@ -95,4 +98,20 @@ Although the team qualified for the elimination stage, we withdrew due to the co
 - Project Management
 - Linux
 - Cuda
+
+## Relevant Courses
+Deep Learning
+Computer Vision
+Embedded System
+Artificial Intelligence
+Numerical Computation
+Linear Algebra
+Engineering and Probability Statistics
+
+
+## Honor and Achievement
+Ranked 1 in Kaggle Competition (Sentimental Analysis)
+Ranked 17 in Mathematics and physics in the Iranian Nationwide Entrance Exam for BSc Studies (2019)
+
+
 
