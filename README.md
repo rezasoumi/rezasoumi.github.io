@@ -100,18 +100,18 @@ Although the team qualified for the elimination stage, we withdrew due to the co
 - Cuda
 
 ## Relevant Courses
-Deep Learning
-Computer Vision
-Embedded System
-Artificial Intelligence
-Numerical Computation
-Linear Algebra
-Engineering and Probability Statistics
+- Deep Learning
+- Computer Vision
+- Embedded System
+- Artificial Intelligence
+- Numerical Computation
+- Linear Algebra
+- Engineering and Probability Statistics
 
 
 ## Honor and Achievement
-Ranked 1 in Kaggle Competition (Sentimental Analysis)
-Ranked 17 in Mathematics and physics in the Iranian Nationwide Entrance Exam for BSc Studies (2019)
+- Ranked 1 in Kaggle Competition (Sentimental Analysis)
+- Ranked 17 in Mathematics and physics in the Iranian Nationwide Entrance Exam for BSc Studies (2019)
 
 
 
