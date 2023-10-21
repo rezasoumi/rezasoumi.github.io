@@ -74,7 +74,7 @@ The Signals and Systems course project at Sharif involves two main aspects: JPEG
 This project is a secure messenger application designed to provide end-to-end encryption for communication between users in a command prompt environment. Users can send messages securely to each other, ensuring the confidentiality and integrity of their conversations. The application utilizes RSA and Diffie-Hellman key exchange to establish secure communication channels. more details are available in the GitHub repo.
 
 ### Another Projects
-I have a collection of projects available in my GitHub repository that I completed during my bachelor's journey. These projects include an Internet of Medical Project(IOMT), a Cooking Website Project, a Decaf Compiler Project, a Python Interpreter, and a Simple Telegram bot.
+I have a collection of projects available in my GitHub repository that I completed during my bachelor's journey. These projects include a Cooking Website Project, a Decaf Compiler Project, a Python Interpreter, and a Simple Telegram bot.
 
 ## Volunteering
 ### Volunteer Teaching Assistant
