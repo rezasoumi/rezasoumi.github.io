@@ -2,7 +2,7 @@
 
 I'm a final-year undergraduate student pursuing a degree in Computer Engineering at Sharif University of Technology, one of Iran's premier institutions, ranked as the best university in the country according to the QS ranking of 2023.
 
-Throughout my academic journey and especially towards the end, I've developed a keen interest in machine learning and deep learning techniques. My fascination with these cutting-edge technologies has driven me to watch various projects and try to explore some of them by myself to apply my knowledge in practical ways.
+Throughout my academic journey and especially towards the end, I've developed a keen interest in machine learning and deep learning techniques, as well as interdisciplinary projects involving these technologies. My fascination with these cutting-edge technologies has driven me to watch various projects and try to explore some of them by myself to apply my knowledge in practical ways. I have a keen interest in practical AI, Autonomous Agents, and Embedded AI, particularly in models, theories, and projects that offer tangible value, real-world applications, and are designed for practical use.
 You can explore these projects in detail on my GitHub page.
 
 As a technology enthusiast, I firmly believe in the importance of staying updated with the latest advancements in the field. I am an avid reader of research papers and actively participate in online courses and workshops to expand my knowledge.
