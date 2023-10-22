@@ -21,6 +21,7 @@ I'm open to connecting with like-minded professionals, researchers, and industry
 - Information Search and Retrieval
 - Neuroscience
 - Signal Processing
+- AR&VR
 
 ## Education			        		
 - B.S., Computer Engineering | Sharif University of Technology (_2019-2023_) GPA: 3.8/4
