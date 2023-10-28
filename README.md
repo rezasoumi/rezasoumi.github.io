@@ -1,4 +1,4 @@
-# Computer Engineer
+# Computer Enthusiast
 
 I'm a final-year undergraduate student pursuing a degree in Computer Engineering at Sharif University of Technology, one of Iran's premier institutions, ranked as the best university in the country according to the QS ranking of 2023.
 
