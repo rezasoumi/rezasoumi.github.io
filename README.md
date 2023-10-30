@@ -97,7 +97,7 @@ We provided an environment for holding scientific and non-scientific presentatio
 
 ### Volleyball Coach
 I was the coach of the CE department student volleyball team, including 12 members of the Department and we passed the group stage in the competition.
-Although the team qualified for the elimination stage, we withdrew due to the conditions of one of the professors of the department in support of him.
+Although the team qualified for the elimination stage, we withdrew due to the conditions of one of the professors of the department, Dr. Ali Sharifi-Zarchi, in support of him.
 
 ## Skills
 - Leadership
