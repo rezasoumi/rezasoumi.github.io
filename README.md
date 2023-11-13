@@ -28,7 +28,7 @@ I'm open to connecting with like-minded professionals, researchers, and industry
 - Diploma, Mathematics and physics | Seyed-Razi NODET school (_2013-2019_) GPA: 19.5/20
 
 ## Research Experience
-** Continuous-Time Neural Networks (_Sep 2023 - Present) **
+** Continuous-Time Neural Networks @ Sharif University (_Sep 2023 - Present_)**
 
 [Project Objective](https://github.com/rezasoumi/LiquidTimeConstantNeuralNetwork#project-objectives): Investigating applications and potential enhancements of Continuous-Time Neural Networks, both in theory and practice.
 
