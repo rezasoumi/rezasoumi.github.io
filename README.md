@@ -38,15 +38,16 @@ Throughout my time at Mofid, I leveraged my expertise in Software Engineering, D
 
 - Skills: Applied Machine Learning · Deep Learning · Data Mining · Statistics · Software Development
 
+## Research Experience
+** Continuous-Time Neural Networks (_Sep 2023 - Present)
+
+[Project Objective](https://github.com/rezasoumi/LiquidTimeConstantNeuralNetwork#project-objectives): Investigating applications and potential enhancements of Continuous-Time Neural Networks, both in theory and practice.
+
+I am actively engaged in two research papers: "Liquid Time-Constant Neural Network" and "Closed-form Continuous Time Neural Network" collaborating under the guidance of [Dr. Mahdieh Soleymani Baghshah](https://scholar.google.com/citations?user=S1U0KlgAAAAJ&hl=en)
+
+These projects delve into the dynamic realm of neural networks and continuous-time modeling, necessitating a multidisciplinary approach. The scope spans dynamic systems, control theory, numerical computation, mathematics, linear algebra, engineering probability, and statistics, as well as expertise in machine learning and deep learning.
+
 ## Last Projects
-
-### "Liquid Time-Constant Neural Network" and "Closed-form Continuous Time Neural Network" papers
-In progress ... 
-
-These papers delve into the exciting world of dynamic neural networks and continuous-time modeling, requiring a multidisciplinary approach encompassing dynamic systems, control theory, numerical computation, mathematics, linear algebra, engineering probability and statistics, machine learning, and deep learning.
-
-#### Project Objective
-Explore their applications and potential improvements (enhancements), both theoretically and practically.
 
 ### Patient monitoring device (IOMT)
 In progress ...
