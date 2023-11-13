@@ -24,8 +24,8 @@ I'm open to connecting with like-minded professionals, researchers, and industry
 - AR&VR
 
 ## Education			        		
-- B.S., Computer Engineering | Sharif University of Technology (_2019-2023_) GPA: 3.8/4
-- Diploma, Mathematics and physics | Seyed-Razi NODET school (_2013-2019_) GPA: 4/4
+- B.S., Computer Engineering | Sharif University of Technology (_2019-2023_) GPA last 2 years: 19.69/20
+- Diploma, Mathematics and physics | Seyed-Razi NODET school (_2013-2019_) GPA: 19.5/20
 
 ## Work Experience
 **Data Engineer & ML Specialist @ Mofid Securities (_Sep 2020 - Sep 2023_) (Part-Time during my education)**
