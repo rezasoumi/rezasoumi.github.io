@@ -1,15 +1,14 @@
 # Computer Enthusiast
 
-I'm a final-year undergraduate student pursuing a degree in Computer Engineering at Sharif University of Technology, one of Iran's premier institutions, ranked as the best university in the country according to the QS ranking of 2023.
+Welcome to my digital space! I'm Reza Soumi, a final-year undergraduate student majoring in Computer Engineering at Sharif University of Technology, Iran's top-ranking institution according to the 2023 QS rankings.
 
-Throughout my academic journey and especially towards the end, I've developed a keen interest in machine learning and deep learning techniques, as well as interdisciplinary projects involving these technologies. My fascination with these cutting-edge technologies has driven me to watch various projects and try to explore some of them by myself to apply my knowledge in practical ways. I have a keen interest in practical AI, Autonomous Agents, and Embedded AI, particularly in models, theories, and projects that offer tangible value, real-world applications, and are designed for practical use.
-You can explore these projects in detail on my GitHub page.
+In my academic journey, my focus has evolved towards the exciting realms of machine learning and deep learning. Delving into interdisciplinary projects, I've explored the practical applications of AI, Autonomous Agents, and Embedded AI. You can find the results of these endeavors on my GitHub page.
 
-As a technology enthusiast, I firmly believe in the importance of staying updated with the latest advancements in the field. I am an avid reader of research papers and actively participate in online courses and workshops to expand my knowledge.
+As a tech enthusiast, I believe in staying abreast of the latest advancements. I'm an avid reader of research papers and actively engage in online courses to expand my knowledge.
 
-I am excited to embark on a career journey that allows me to apply my skills in machine learning and artificial intelligence to create innovative solutions that positively impact society. I'm eager to contribute my expertise to a dynamic and forward-thinking team.
+I'm thrilled about the prospect of applying my skills in machine learning and artificial intelligence to create innovative solutions with real-world impact. My passion lies in contributing to projects that offer tangible value and practical applications. If you share a similar enthusiasm or wish to connect, feel free to reach out to me on LinkedIn or via email.
 
-I'm open to connecting with like-minded professionals, researchers, and industry experts. Feel free to reach out to me on LinkedIn or via email.
+Let's embark on this journey of exploration and innovation together!
 
 ### Research Interest
 - Deep Learning
