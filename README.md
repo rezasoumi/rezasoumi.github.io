@@ -93,7 +93,7 @@ I have a collection of projects available in my GitHub repository that I complet
 - Basic Programming (Running Workshop)
 
 ### Head of Talkche
-Talkcheh is a seminar series under the license of the Students Scientific Chapter (SSC) of the CE department of the Sharif University of Technology, in which the presenter and the audience are CE students.
+Talkcheh is a seminar series under the license of the Students' Scientific Chapter (SSC) of the CE department of the Sharif University of Technology, in which the presenter and the audience are CE students.
 We provided an environment for holding scientific and non-scientific presentations by the department's students. Our aim was to foster a community of sharing and learning where each person could bring something new to the table. We held 9 talks during this one-year period.
 - [Telegram Channel](https://t.me/ssc_talkche)
 
