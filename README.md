@@ -63,7 +63,7 @@ The project focuses on various techniques for document classification, search an
 ### Machine Learning Notebooks
 [Repository](https://github.com/rezasoumi/MachineLearningNotebooks)
 
-This repository contains the source codes and implementations (using python) of various machine learning algorithms completed during the Machine Learning course at Sharif University of Technology (Prof: Seyed Abolfazl Motahari). Each section represents a different topic or technique covered in the course, and the projects demonstrate practical applications of the algorithms. Linear Regression, Linear and Quadratic Discriminant Analysis, Logistic Regression, Naive Bayes, Lasso & Ridge Regression, Decision Tree and Ensemble Techniques, Polynomial Regression & Spline, SVM, PCS, K-Means, Neural Net, Semantic Analysis Project are all available in the GitHub repo.
+This repository contains the source codes and implementations (using python) of various machine learning algorithms completed during the Machine Learning course at Sharif University of Technology (Prof: Seyed Abolfazl Motahari). Each section represents a different topic or technique covered in the course, and the projects demonstrate practical applications of the algorithms. Linear Regression, Linear and Quadratic Discriminant Analysis, Logistic Regression, Naive Bayes, Lasso & Ridge Regression, Decision Tree and Ensemble Techniques, Polynomial Regression & Spline, SVM, PCA, K-Means, Neural Net, Semantic Analysis Project are all available in the GitHub repo.
 
 
 ### Signals & Systems Project
