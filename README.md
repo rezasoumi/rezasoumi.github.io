@@ -2,7 +2,7 @@
 
 Welcome to my digital space! I'm Reza Soumi, a final-year undergraduate student majoring in Computer Engineering at Sharif University of Technology, Iran's top-ranking institution according to the 2023 QS rankings.
 
-In my academic journey, my focus has evolved towards the exciting realms of machine learning and deep learning. Delving into interdisciplinary projects, I've explored the practical applications of AI, Autonomous Agents, and Embedded AI. You can find the results of these endeavors on my GitHub page.
+In my academic journey, my focus has evolved towards the exciting realms of machine learning and deep learning. Delving into interdisciplinary projects, I've explored the practical applications of AI, Autonomous Agents, and Intelligent Systems. You can find the results of these endeavors on my GitHub page.
 
 As a tech enthusiast, I believe in staying abreast of the latest advancements. I'm an avid reader of research papers and actively engage in online courses to expand my knowledge.
 
