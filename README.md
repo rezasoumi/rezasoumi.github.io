@@ -26,6 +26,10 @@ Let's embark on this journey of exploration and innovation together!
 - B.S., Computer Engineering | Sharif University of Technology (_2019-2023_) GPA last 2 years: 19.69/20
 - Diploma, Mathematics and physics | Seyed-Razi NODET school (_2013-2019_) GPA: 19.5/20
 
+## Honor and Achievement
+- Ranked 1 in Kaggle Competition (Sentimental Analysis)
+- Ranked 17 in Mathematics and physics in the Iranian Nationwide Entrance Exam for BSc Studies (2019)
+
 ## Research Experience
 ** Continuous-Time Neural Networks @ Sharif University (_Sep 2023 - Present_)**
 
@@ -128,11 +132,6 @@ Although the team qualified for the elimination stage, we withdrew due to the co
 - Linear Algebra
 - Engineering and Probability Statistics
 - Signal Processing
-
-
-## Honor and Achievement
-- Ranked 1 in Kaggle Competition (Sentimental Analysis)
-- Ranked 17 in Mathematics and physics in the Iranian Nationwide Entrance Exam for BSc Studies (2019)
 
 
 
