@@ -13,11 +13,12 @@ Let's embark on this journey of exploration and innovation together!
 ### Research Interest
 - Deep Learning
 - Machine Learning
+- Neural ODEs
+- Natural Language Processing
+- Information Search and Retrieval
 - Embedded AI
 - Intelligent Systems
-- Neural ODEs
 - Computer Vision
-- Information Search and Retrieval
 - Neuroscience
 - Signal Processing
 - AR&VR
