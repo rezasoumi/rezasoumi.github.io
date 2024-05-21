@@ -55,11 +55,6 @@ Throughout my time at Mofid, I leveraged my expertise in Software Engineering, D
 
 ## Last Projects
 
-### Patient monitoring device (IOMT)
-In progress ...
-
-The aim of this project is to explore the application of the Internet of Medical Things (IOMT) in healthcare, with a focus on creating a prototype patient monitoring device for an elderly individual with Alzheimer's. The device incorporates sensors for monitoring vital signs such as pulse oximetry, heart rate, and blood pressure, along with a GPS sensor to track the patient's location. The key challenge lies in designing a portable, low-power device. Sensor data is transmitted to an internet server via Raspberry Pi or NodeMCU Wi-Fi modules, using IoT protocols like MQTT or CoAP. The project also includes the development of a mobile or web application for real-time sensor data display.
-
 ### Modern Information Retrieval
 [Repository](https://github.com/rezasoumi/ModernInformationRetrieval)
 
@@ -80,6 +75,11 @@ The Signals and Systems course project at Sharif involves two main aspects: JPEG
 [Repository](https://github.com/rezasoumi/DNS_Project)
 
 This project is a secure messenger application designed to provide end-to-end encryption for communication between users in a command prompt environment. Users can send messages securely to each other, ensuring the confidentiality and integrity of their conversations. The application utilizes RSA and Diffie-Hellman key exchange to establish secure communication channels. more details are available in the GitHub repo.
+
+### Patient monitoring device (IOMT)
+[Repository](https://github.com/Alirzeanoroozi/Hardware_lab)
+
+The aim of this project was to explore the application of the Internet of Medical Things (IOMT) in healthcare, with a focus on creating a prototype patient monitoring device for an elderly individual with Alzheimer's. The device incorporates sensors for monitoring vital signs such as pulse oximetry, heart rate, and blood pressure, along with a GPS sensor to track the patient's location. The key challenge lies in designing a portable, low-power device. Sensor data is transmitted to an internet server via Raspberry Pi or NodeMCU Wi-Fi modules, using IoT protocols like MQTT or CoAP. The project also includes the development of a mobile or web application for real-time sensor data display.
 
 ### Another Projects
 I have a collection of projects available in my GitHub repository that I completed during my bachelor's journey. These projects include a Cooking Website Project, a Decaf Compiler Project, a Python Interpreter, and a Simple Telegram bot.
