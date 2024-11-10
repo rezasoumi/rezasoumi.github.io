@@ -20,7 +20,7 @@ Let's embark on this journey of exploration and innovation together!
 - Neuroscience
 
 ## Education			        	
-- M.Sc in Machine Learning, Data Science, Artificial Intelligence (_2024-2026) GPA: 5/5
+- M.Sc, Machine Learning, Data Science, Artificial Intelligence | Aalto University (_2024-2026) GPA: 5/5
 - B.S., Computer Engineering | Sharif University of Technology (_2019-2023_) GPA last 2 years: 19.69/20
 - Diploma, Mathematics and physics | Seyed-Razi NODET school (_2013-2019_) GPA: 19.5/20
 
