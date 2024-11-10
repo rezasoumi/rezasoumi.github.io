@@ -1,6 +1,6 @@
 # Computer Enthusiast
 
-Welcome to my digital space! I'm Reza Soumi, a final-year undergraduate student majoring in Computer Engineering at Sharif University of Technology, Iran's top-ranking institution according to the 2023 QS rankings.
+Welcome to my digital space! I'm Reza Soumi, a master's student majoring in Machine Learning, Data Science, and Artificial Intelligence (Macadamia) at Aalto University.
 
 In my academic journey, my focus has evolved towards the exciting realms of machine learning and deep learning. Delving into interdisciplinary projects, I've explored the practical applications of AI, Autonomous Agents, and Intelligent Systems. You can find the results of these endeavors on my GitHub page.
 
@@ -13,21 +13,19 @@ Let's embark on this journey of exploration and innovation together!
 ### Research Interest
 - Deep Learning
 - Machine Learning
-- Neural ODEs
-- Natural Language Processing
 - Information Search and Retrieval
 - Embedded AI
 - Intelligent Systems
 - Computer Vision
 - Neuroscience
-- Signal Processing
-- AR&VR
 
 ## Education			        		
 - B.S., Computer Engineering | Sharif University of Technology (_2019-2023_) GPA last 2 years: 19.69/20
 - Diploma, Mathematics and physics | Seyed-Razi NODET school (_2013-2019_) GPA: 19.5/20
 
 ## Honor and Achievement
+- Awarded scholarship for M.Sc. in Machine Learning at Aalto University, Macadamia Program
+- Contributed to VSCode open-source code on GitHub, with a successful main branch merge by Google’s team
 - Ranked 1 in Kaggle Competition (Sentimental Analysis)
 - Ranked 17 in Mathematics and physics in the Iranian Nationwide Entrance Exam for BSc Studies (2019)
 
@@ -114,7 +112,6 @@ Although the team qualified for the elimination stage, we withdrew due to the co
 - Embedded AI
 - Natural Language Processing
 - Neural ODEs
-- Signal Processing
 - Applied Machine Learning
 - Web Development
 - Data Mining
@@ -127,12 +124,10 @@ Although the team qualified for the elimination stage, we withdrew due to the co
 - Deep Learning
 - Computer Vision
 - Machine Learning
-- Embedded System
 - Artificial Intelligence
 - Numerical Computation
 - Linear Algebra
 - Engineering and Probability Statistics
-- Signal Processing
 
 
 
