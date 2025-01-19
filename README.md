@@ -10,15 +10,6 @@ I'm thrilled about the prospect of applying my skills in machine learning and ar
 
 Let's embark on this journey of exploration and innovation together!
 
-### Research Interest
-- Deep Learning
-- Machine Learning
-- Information Search and Retrieval
-- Embedded AI
-- Intelligent Systems
-- Computer Vision
-- Neuroscience
-
 ## Education			        	
 - M.Sc, Machine Learning, Data Science, Artificial Intelligence | Aalto University (_2024-2026) GPA: 5/5
 - B.S., Computer Engineering | Sharif University of Technology (_2019-2023_) GPA last 2 years: 19.69/20
@@ -54,6 +45,16 @@ Throughout my time at Mofid, I leveraged my expertise in Software Engineering, D
 
 ## Last Projects
 
+### Bayesian Data Analysis
+[Repository](https://github.com/rezasoumi/BayesianDataAnalysis)
+
+The project investigates the time it takes for professional tennis players to reach the global top 20 rankings, using Bayesian modeling techniques. 
+
+### Reinforcement Learning
+[Repository](https://github.com/rezasoumi/ReinforcementLearning)
+
+The objective of this project is to optimize a robot's behavior using reinforcement learning to maximize performance in a sanding task. The robot aims to sand specified areas while avoiding painted areas, using either the DDPG or PPO algorithm, with performance improvements achieved through extensions.
+
 ### Modern Information Retrieval
 [Repository](https://github.com/rezasoumi/ModernInformationRetrieval)
 
@@ -85,7 +86,7 @@ I have a collection of projects available in my GitHub repository that I complet
 
 ## Volunteering
 ### Volunteer Teaching Assistant
-- Artificial Intelligence *2 (Head of Lecture Videos Section, Designing Homework & Exam)
+- Artificial Intelligence *3 (Head of Lecture Videos Section, Designing Homework & Exam, Student Support)
 - Embedded Systems * 2 (Designing Project)
 - Numerical Computation *2 (Designing Homework, Running Workshop)
 - Engineering Probability and Statistics (Designing Exam)
@@ -109,7 +110,6 @@ Although the team qualified for the elimination stage, we withdrew due to the co
 - Leadership
 - Machine Learning
 - Deep Learning
-- Embedded System Design
 - Embedded AI
 - Natural Language Processing
 - Neural ODEs
@@ -126,9 +126,5 @@ Although the team qualified for the elimination stage, we withdrew due to the co
 - Computer Vision
 - Machine Learning
 - Artificial Intelligence
-- Numerical Computation
 - Linear Algebra
 - Engineering and Probability Statistics
-
-
-
